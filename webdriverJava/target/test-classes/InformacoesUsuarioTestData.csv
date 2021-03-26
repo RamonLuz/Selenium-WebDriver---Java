@@ -1,0 +1,9 @@
+testeAdicionandoInformacoesUsuario, tipo, contato, mensagem
+                                  ,Phone,+5571988888888,Your contact has been added!
+                                  ,Phone,+5571977777777,Your contact has been added!
+                                  ,Phone,+5571966666666,Your contact has been added!
+                                  ,E-mail,email_1@email.com.br,Your contact has been added!
+                                  ,E-mail,Email_2@email.com.br,Your contact has been added!
+testeRemovendoInformacoesUsuario, contato, mensagem
+                                ,Email_2@email.com.br,"Rest in peace, dear email!"
+                                ,+5571988888888,"Rest in peace, dear phone!"
